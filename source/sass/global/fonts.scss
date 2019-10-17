@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Bloggersans";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/bloggersans.woff2") format("woff2");
+  src: url("../fonts/bloggersans.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Bloggersans";
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/bloggersans-bold.woff2") format("woff2");
+  src: url("../fonts/bloggersans-bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Bloggersans";
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/bloggersans-light.woff2") format("woff2");
+  src: url("../fonts/bloggersans-light.woff") format("woff");
+}
+
+:root {
+  font-size: 62.5%;
+  font-family: "Bloggersans", "Arial", sans-serif;
+  font-style: normal;
+}

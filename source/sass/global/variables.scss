@@ -1,0 +1,33 @@
+$primary: #444444;
+$primary--light: #edeff6;  /*голубой фон*/
+$primary--lightest: #ffffff;  /*фон и текст*/
+$primary--dark: #1d2e5b;  /*декор и шрифт - синий*/
+$primary--darken: #192144; /*текст и фон - синий*/
+$primary--darken-53: #161c35;  /*rgba(22, 28, 53, 1); текст и фон - синий*/
+$primary--darken-54: #121936;  /*rgba(18, 25, 54, 1); фон - синий*/
+$primary--darken-59: #141b3b;  /*rgba(20, 27, 59, 1); текст и фон - синий*/
+$primary--darken-65: #101d41;  /*rgba(16, 29, 65, 1); фон и тултип- синий*/
+$primary--darken-68: #182044;  /*rgba(24, 32, 68, 1); фон и тултип- синий*/
+$primary--darken-118: #132576;  /*rgba(19, 37, 118, 1); текст и фон - синий*/
+
+
+/*акцентные желтые оттенки*/
+$accent--base: #ffd74b;/*жёлтый*/
+$accent--dark: #ffbd30;
+$accent--darker: #ff8d30;
+$accent--darker-48: #ffa530;  /*rgba(255, 165, 48, 1);*/
+
+
+$secondary--light: #e2e5f2;  /*голубой для блоков*/
+$secondary--light-237: #dfe3f0;  /*rgba(214, 218, 237, 1);; голубой фон*/
+$secondary--light-240: #dfe3f0;  /*rgba(223, 227, 240, 1); голубой фон для блоков*/
+
+/*ширина экрана*/
+$mobile-width-only: 767px;
+$tablet-width: 768px;
+$tablet-width-only: 1439px;
+$desktop-width: 1440px;
+
+/*ретина*/
+$retina-dpi: 144dpi;
+$retina-dppx: 1.5dppx;

@@ -1,0 +1,29 @@
+{
+  "name": "pignali",
+  "version": "1.0.0",
+  "description": "Учебный проект \"Погнали\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp css",
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchela9111/pignali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchela9111/pignali/issues"
+  },
+  "homepage": "https://github.com/pchela9111/pignali#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.5",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
